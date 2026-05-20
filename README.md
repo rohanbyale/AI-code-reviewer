@@ -1,4 +1,4 @@
-# Quantus AI (Lumina)
+
 
 <div align="center">
   <!-- Accent Tag -->
@@ -8,7 +8,7 @@
 
   <!-- Title -->
   <h1 style="font-size: 42px; font-weight: 800; margin: 0 0 10px 0; border-bottom: none; color: #ffffff;">
-    Quantus AI <font color="#CCFF00">(Lumina)</font>
+    AI based <font color="#CCFF00">(Code Review)</font>
   </h1>
   
   <!-- Description Paragraph -->
