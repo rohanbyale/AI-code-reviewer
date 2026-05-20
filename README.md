@@ -112,3 +112,66 @@
     </td>
   </tr>
 </table>
+
+
+<!-- CAPABILITIES HEADER WITH LIVE SIMULATED METRIC -->
+<h2 style="border-bottom: 1px solid #222225; padding-bottom: 10px; color: #ffffff; font-size: 20px; font-family: -apple-system, sans-serif; letter-spacing: -0.5px; margin-top: 50px;">
+  <font color="#CCFF00">■</font> ENGINE CORE CAPABILITIES
+</h2>
+
+<!-- HIGH-SPEED ANIMATED DIAGRAM (Fills the visual gap left by text sanitization) -->
+<div align="center" style="margin: 20px 0 30px 0;">
+  <img src="https://vhs-readme-api.vercel.app/api/vector-render?theme=dark&accent=CCFF00&speed=v4" width="100%" max-width="800px" alt="Quantus AI Pipeline Vector Graphic" />
+</div>
+
+<!-- HIGH-CONTRAST FEATURE BLOCK MATRICES -->
+<table width="100%" style="border-collapse: collapse; border: none; margin-top: 20px;">
+  <tr>
+    <!-- Feature 01: Instant Suggestions -->
+    <td width="50%" style="border: 1px solid #222225; background-color: #0d0d11; padding: 24px; vertical-align: top;">
+      <p style="margin: 0 0 12px 0; display: flex; align-items: center; gap: 6px;">
+        <img src="https://img.shields.io/badge/%E2%9A%A1_ENGINE-ACTIVE-CCFF00?style=flat-square&labelColor=111111" alt="Engine Badge">&nbsp;
+        <font color="#CCFF00" face="monospace" size="1"><b>01 / REAL-TIME STREAM</b></font>
+      </p>
+      <h3 style="color: #ffffff; font-size: 18px; font-weight: 700; margin: 0 0 10px 0; border: none;">Instant Suggestions</h3>
+      <p style="color: #a3a3ac; font-size: 14px; line-height: 1.6; margin: 0;">
+        Receive contextual, production-ready code recommendations the second a script is processed. Eliminates debugging downtime with direct alternatives.
+      </p>
+    </td>
+    <!-- Feature 02: Deep Error Detection -->
+    <td width="50%" style="border: 1px solid #222225; background-color: #0d0d11; padding: 24px; vertical-align: top;">
+      <p style="margin: 0 0 12px 0; display: flex; align-items: center; gap: 6px;">
+        <img src="https://img.shields.io/badge/%F0%9F%94%8E_LOGIC-AUDIT-cyan?style=flat-square&labelColor=111111" alt="Logic Badge">&nbsp;
+        <font color="#00E5FF" face="monospace" size="1"><b>02 / COGNITIVE ANALYSIS</b></font>
+      </p>
+      <h3 style="color: #ffffff; font-size: 18px; font-weight: 700; margin: 0 0 10px 0; border: none;">Deep Error Detection</h3>
+      <p style="color: #a3a3ac; font-size: 14px; line-height: 1.6; margin: 0;">
+        Isolates logical flaws, execution vulnerabilities, syntax exceptions, and edge-case exceptions embedded within complex nested scripts.
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <!-- Feature 03: Performance Optimization -->
+    <td width="50%" style="border: 1px solid #222225; background-color: #0d0d11; padding: 24px; vertical-align: top;">
+      <p style="margin: 0 0 12px 0; display: flex; align-items: center; gap: 6px;">
+        <img src="https://img.shields.io/badge/%F0%9F%93%88_METRICS-O(N)-magenta?style=flat-square&labelColor=111111" alt="Metrics Badge">&nbsp;
+        <font color="#FF007F" face="monospace" size="1"><b>03 / RUNTIME MONITOR</b></font>
+      </p>
+      <h3 style="color: #ffffff; font-size: 18px; font-weight: 700; margin: 0 0 10px 0; border: none;">Complexity Optimization</h3>
+      <p style="color: #a3a3ac; font-size: 14px; line-height: 1.6; margin: 0;">
+        Identifies expensive computations, memory leaks, and redundant loops. Redrafts logic to maintain clean asymptotic complexity.
+      </p>
+    </td>
+    <!-- Feature 04: Diagnostic Explanations -->
+    <td width="50%" style="border: 1px solid #222225; background-color: #0d0d11; padding: 24px; vertical-align: top;">
+      <p style="margin: 0 0 12px 0; display: flex; align-items: center; gap: 6px;">
+        <img src="https://img.shields.io/badge/%F0%9F%93%9D_LOGS-PARSE-yellow?style=flat-square&labelColor=111111" alt="Logs Badge">&nbsp;
+        <font color="#FFD700" face="monospace" size="1"><b>04 / EXPLICIT BREAKDOWN</b></font>
+      </p>
+      <h3 style="color: #ffffff; font-size: 18px; font-weight: 700; margin: 0 0 10px 0; border: none;">Error Explanations</h3>
+      <p style="color: #a3a3ac; font-size: 14px; line-height: 1.6; margin: 0;">
+        Breaks down the breakdown. Delivers atomic, developer-focused descriptions maps exactly *why* a pattern fails and how the update resolves it.
+      </p>
+    </td>
+  </tr>
+</table>
