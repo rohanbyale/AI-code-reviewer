@@ -1,36 +1,43 @@
-<!-- PROJECT HEADER -->
-<div align="center" style="margin-bottom: 40px;">
-  <!-- Accent Tag -->
-  <code style="color: #CCFF00; background: rgba(204, 255, 0, 0.1); border: 1px solid rgba(204, 255, 0, 0.3); padding: 5px 12px; border-radius: 20px; font-size: 11px; letter-spacing: 2px; text-transform: uppercase; font-weight: bold;">GenAI Architecture</code>
-  
-  <h1 style="font-size: 42px; font-weight: 800; margin: 15px 0 10px 0; letter-spacing: -1px; color: #ffffff;">Quantus AI <span style="color: #CCFF00;">(Lumina)</span></h1>
-  
-  <p style="font-size: 16px; color: #8a8a93; max-width: 600px; line-height: 1.6; margin: 0 auto 25px auto;">
-    An automated, production-grade code auditing platform that intercepts bugs, diagnoses architectural flaws, and delivers optimized refactored alternatives in real time.
-  </p>
+<!-- PREMIUM GRAPHIC HEADLINE CARD -->
+<div align="center" style="margin: 20px 0 40px 0;">
+  <table style="border-collapse: collapse; border: 1px solid #222225; background: #0d0d11; width: 100%; max-width: 800px; border-radius: 12px; overflow: hidden; box-shadow: 0 20px 40px rgba(0,0,0,0.5);">
+    <tr>
+      <td style="padding: 40px 30px; text-align: left;">
+        
+        <!-- Subtle Status Badge -->
+        <div style="margin-bottom: 20px; display: flex; align-items: center; gap: 8px;">
+          <span style="height: 8px; width: 8px; background-color: #CCFF00; border-radius: 50%; display: inline-block; box-shadow: 0 0 10px #CCFF00;"></span>
+          <code style="color: #CCFF00; font-size: 11px; letter-spacing: 2px; font-weight: 700; text-transform: uppercase; font-family: monospace;">SYSTEM STATUS: OPERATIONAL</code>
+        </div>
 
-  <!-- Tech Badges -->
-  <div style="display: flex; justify-content: center; gap: 8px; flex-wrap: wrap;">
-    <img src="https://img.shields.io/badge/Gemini_API-Advanced_LLM-CCFF00?style=flat-square&logo=google-gemini&logoColor=black&labelColor=111111" alt="Gemini API">
-    <img src="https://img.shields.io/badge/React-Interactive_UI-61DAFB?style=flat-square&logo=react&logoColor=61DAFB&labelColor=111111" alt="React">
-    <img src="https://img.shields.io/badge/Tailwind_v4-Minimalist_Design-38BDF8?style=flat-square&logo=tailwindcss&logoColor=38BDF8&labelColor=111111" alt="Tailwind">
-    <img src="https://img.shields.io/badge/Status-Production_Ready-emerald?style=flat-square&labelColor=111111" alt="Status">
-  </div>
+        <!-- Headline -->
+        <h2 style="color: #ffffff; font-size: 32px; font-weight: 800; line-height: 1.2; margin: 0 0 16px 0; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; letter-spacing: -0.5px;">
+          Automated Intelligence for <br/>
+          <span style="color: #CCFF00; background: linear-gradient(90deg, #CCFF00, #FFFF00); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">Production-Grade Code Auditing.</span>
+        </h2>
+
+        <!-- The Professional Introduction Text -->
+        <p style="color: #a3a3ac; font-size: 15px; line-height: 1.7; margin: 0 0 24px 0; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; font-weight: 400;">
+          <strong>AI Code Reviewer</strong> is a Generative AI-based code review platform that helps developers improve code quality. Users can upload their code, and the system automatically analyzes it to detect errors, identify inefficient coding practices, and suggest optimized, cleaner, and more efficient code solutions. It provides instant feedback, better coding recommendations, and error explanations, helping developers write high-quality and optimized code faster.
+        </p>
+
+        <!-- Metric Pipeline Footer Indicators -->
+        <div style="border-top: 1px solid #222225; padding-top: 20px; display: grid; grid-template-columns: 1fr 1fr 1fr; gap: 15px;">
+          <div>
+            <div style="color: #CCFF00; font-family: monospace; font-weight: bold; font-size: 11px; letter-spacing: 1px;">01 / DIAGNOSTICS</div>
+            <div style="color: #ffffff; font-size: 13px; margin-top: 4px; font-family: -apple-system, sans-serif;">Instant Error Logs</div>
+          </div>
+          <div>
+            <div style="color: #CCFF00; font-family: monospace; font-weight: bold; font-size: 11px; letter-spacing: 1px;">02 / EFFICIENCY</div>
+            <div style="color: #ffffff; font-size: 13px; margin-top: 4px; font-family: -apple-system, sans-serif;">O(N) Complexity Optimization</div>
+          </div>
+          <div>
+            <div style="color: #CCFF00; font-family: monospace; font-weight: bold; font-size: 11px; letter-spacing: 1px;">03 / VELOCITY</div>
+            <div style="color: #ffffff; font-size: 13px; margin-top: 4px; font-family: -apple-system, sans-serif;">Real-time Feedback Stream</div>
+          </div>
+        </div>
+
+      </td>
+    </tr>
+  </table>
 </div>
-
-<hr style="border: 0; border-top: 1px solid #222225; margin: 40px 0;" />
-
-<!-- VISUAL DIAGRAM / INTERACTIVE FEEL -->
-<div style="background: #0d0d11; border: 1px solid #222225; border-radius: 8px; overflow: hidden; margin-bottom: 40px; font-family: monospace;">
-  <!-- Terminal Top Bar -->
-  <div style="background: #16161e; padding: 12px 20px; border-bottom: 1px solid #222225; display: flex; align-items: center; justify-content: space-between;">
-    <div style="display: flex; gap: 6px;">
-      <span style="width: 10px; height: 10px; border-radius: 50%; background: #ff5f56; display: inline-block;"></span>
-      <span style="width: 10px; height: 10px; border-radius: 50%; background: #ffbd2e; display: inline-block;"></span>
-      <span style="width: 10px; height: 10px; border-radius: 50%; background: #27c93f; display: inline-block;"></span>
-    </div>
-    <span style="color: #6272a4; font-size: 11px; font-weight: bold; letter-spacing: 0.5px;">DIAGNOSTIC_PIPELINE.log</span>
-  </div>
-  
-  <!-- Terminal Content -->
- id #222225; margin: 40px 0;" />
