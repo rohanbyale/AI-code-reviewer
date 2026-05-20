@@ -1,0 +1,74 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html,body,
+#root{
+  height: 100%;
+  width: 100%;
+}
+
+main{
+  height: 100%;
+  width: 100%;
+  padding: 2.5rem;
+  display: flex;
+  gap: 1rem;
+}
+
+main .left , main .right{
+  height: 100%;
+  flex-basis: 50%;
+border-radius: 0.7rem;
+
+}
+
+main .left{
+  background-color: black;
+  position: relative;
+ 
+}
+
+
+.left .code , .code pre ,
+.code pre code
+{
+height: 100%;
+width: 100%;
+margin: 0;
+border-radius: 0.7rem;
+background-color: rgb(16, 15, 15);
+}
+
+main .left .review{
+  position: absolute;
+ bottom: 1rem;
+  right: 1rem;
+background-color: azure;
+padding: 10px;
+text-transform: capitalize;
+border-radius: 6px;
+cursor: pointer;
+font-weight: 500;
+font-size: larger;
+
+}
+
+
+
+main .left .review:hover {
+ text-transform: uppercase;
+ background-color: rgb(76, 34, 34);
+ color: wheat;
+ scale: 2px;
+}
+
+
+main .right{
+  background-color: rgb(43, 47, 46);
+  padding: 1rem 2rem;
+  font-size: 1.2rem;
+  overflow: auto;
+}
