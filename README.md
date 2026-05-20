@@ -5,7 +5,7 @@
     <td padding="40" style="padding: 40px 30px;">
       <!-- Subtle Status Badge -->
       <p style="margin: 0 0 20px 0;">
-        <font color="#CCFF00" face="monospace" size="2"><b>[●] SYSTEM STATUS: OPERATIONAL</b></font>
+        <font color="#CCFF00" face="monospace" size="2"><b></b></font>
       </p>
       <!-- Headline -->
       <h1 style="color: #ffffff; font-size: 32px; font-weight: 800; line-height: 1.2; margin: 0 0 16px 0; border-bottom: none;">
